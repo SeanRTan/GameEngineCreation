@@ -1,0 +1,4 @@
+﻿  Program33_Structs.cpp
+C:\Users\Sean\Downloads\Program33_Structs\Program33_Structs\Program33_Structs.cpp(28,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sean\Downloads\Program33_Structs\Program33_Structs\Program33_Structs.cpp(28,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Program33_Structs.vcxproj -> C:\Users\Sean\Downloads\Program33_Structs\x64\Debug\Program33_Structs.exe

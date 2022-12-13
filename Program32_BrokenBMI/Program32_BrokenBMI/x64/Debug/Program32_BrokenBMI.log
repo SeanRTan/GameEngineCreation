@@ -1,0 +1,4 @@
+﻿  Program32_BrokenBMI.cpp
+C:\Users\Sean\Downloads\Program32_BrokenBMI\Program32_BrokenBMI\Program32_BrokenBMI.cpp(25,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sean\Downloads\Program32_BrokenBMI\Program32_BrokenBMI\Program32_BrokenBMI.cpp(25,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Program32_BrokenBMI.vcxproj -> C:\Users\Sean\Downloads\Program32_BrokenBMI\x64\Debug\Program32_BrokenBMI.exe
