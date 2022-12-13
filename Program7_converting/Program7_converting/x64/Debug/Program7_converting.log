@@ -1,0 +1,3 @@
+﻿  Program7_converting.cpp
+C:\Users\t011850m\OneDrive - Staffordshire University\Program7_converting\Program7_converting\Program7_converting.cpp(10,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Program7_converting.vcxproj -> C:\Users\t011850m\OneDrive - Staffordshire University\Program7_converting\x64\Debug\Program7_converting.exe
